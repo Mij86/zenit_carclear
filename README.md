@@ -1,2 +1,7 @@
-# zenit_carclear
-AUTOMATIC CAR CLEARANCE
+This is a script that allows for the deletion of inactive vehicles within a certain time frame. It provides the option to set a radius within which vehicles should not be removed.
+
+This script was written by Dani, the owner of ZENIT ROLEPLAY on the German platform.
+
+For questions or assistance with the script, feel free to contact me via Discord on my server. Unfortunately, I do not currently offer a Discord for developers.
+
+https://discord.gg/zenitroleplay
