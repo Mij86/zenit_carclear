@@ -1,7 +1,7 @@
 -- Do not edit anything if you have no clue!
 
-local deleteTimer = 1 -- Time in minutes.
-local checkRadius = 10.0 -- Radius within which player vehicles are not towed.
+local deleteTimer = 59 -- Time in minutes.
+local checkRadius = 100.0 -- Radius within which player vehicles are not towed.
 
 -----------------------------------------
 
